@@ -1,7 +1,7 @@
 {
   "name": "HADES-BOT-MD",
   "version": "1.0.0",
-  "description": "subscribe to the HADES-BOT channel",
+  "description": "suscríbete al canal",
   "main": "index.js",
   "type": "module",
   "directories": {
