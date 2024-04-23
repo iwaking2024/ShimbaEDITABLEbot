@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/iwaking2024/ShimbaBot.git && cd ShimbaBot
+git clone https://github.com/iwaking2024/Shimba-bot.git && cd Shimba-bot
 ```
 
 ```bash
@@ -107,7 +107,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd ShimbaBot
+> cd Shimba-bot
 ```
 
 ```bash
