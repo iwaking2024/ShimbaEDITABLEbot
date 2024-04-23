@@ -1,5 +1,5 @@
 {
-  "name": "Shimba-bot",
+  "name": "HADES-BOT-MD",
   "version": "1.0.0",
   "description": "suscríbete al canal",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/iwaking2024/Shimba-bot",
+  "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
   "author": {
     "name": "OFC-YOVANI"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iwaking2024/Shimba-bot.git"
+    "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
   },
   "bugs": {
-    "url": "https://github.com/iwaking2024/Shimba-bot/issues"
+    "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
