@@ -8,7 +8,7 @@ const handler = async (m, {conn, text}) => {
     }
   } catch (error) {
     console.error(error);
-    let errorMessage = 'An error occurred while executing the command.';
+    let errorMessage = 'Se produjo un error al ejecutar el comando.';
     if (error.message) {
       errorMessage += '\nError message: ' + error.message;
     }
