@@ -4,10 +4,10 @@ if (!text) return conn.reply(m.chat, `[❗]ENTER THE @tag OF SOME USER`, fkontak
 let who
 if (m.isGroup) who = m.mentionedJid[0]
 else who = m.chat
-if (!who) return conn.reply(m.chat, `[❗]ENTER THE @tag OF SOME USER`, fkontak, m)
+if (!who) return conn.reply(m.chat, `[❗]INTRODUCIR EL @tag De algun usuario`, fkontak, m)
 let users = global.db.data.users
 users[who].banned = false
-conn.reply(m.chat, `[❗𝐈𝐍𝐅𝐎❗]THE USER WAS SUCCESSFULLY FADED\n THE USER CAN NOW USE THE BOT`, fkontak, m)
+conn.reply(m.chat, `[❗𝐈𝐍𝐅𝐎❗]EL USUARIO FUE DESVANECIDO EXITOSAMENTE\n EL USUARIO AHORA PUEDE USAR EL BOT`, fkontak, m)
 }
 handler.help = ['unbanuser']
 handler.tags = ['owner']
